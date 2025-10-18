@@ -1,0 +1,108 @@
+{
+  "schema": "longrun.manifest/v1",
+  "generated_utc": "2025-10-18T14:59:36Z",
+  "files": [
+    {
+      "path": "LICENSES/CODE_APACHE-2.0.txt",
+      "size": 228,
+      "sha256": "7415bd4b1dce50b924b9e35081f509a035485f25a086d1be09a91c08df461c70",
+      "sha3_256": "fd3cf32f76d3179949531652fa6512f3c49b647aba31fb82d6d1f408441a44b8"
+    },
+    {
+      "path": "LICENSES/DOCS_CC-BY-4.0.txt",
+      "size": 135,
+      "sha256": "b2c0ff59ab78aad3fb37914b3c4188d180a3ed5cde5a8a674c4835bbc0d649c8",
+      "sha3_256": "05f32045489b98e6d316d08fed8f147746d3565d4384ab81ac9503e10c6a3ca3"
+    },
+    {
+      "path": "Makefile",
+      "size": 516,
+      "sha256": "6cc8f18ebb6a8f8c4c808f888bdb1aefeec8a4d9d0df7c5decb65d71927f5390",
+      "sha3_256": "77ad5bebce026a7847ce793aafb7295e5aa20846a8feb8e274220261c3e060f2"
+    },
+    {
+      "path": "README.md",
+      "size": 727,
+      "sha256": "376c619bfb06d4aa7d34dbcb946edb3f4d79dca993da31eb45169b3c08ed521c",
+      "sha3_256": "8dc35958fe288af5cde7d53922662f8ebaecc0cfc37d037b5d04d172ed7521f2"
+    },
+    {
+      "path": "START_HERE.md",
+      "size": 865,
+      "sha256": "38dcd42419a86592cd059f1e17dd7de5a2fa4ac844638feadc41e5b7fdb231c2",
+      "sha3_256": "23493f8124f9e84cbd38d1239449c9449a95a58521016d7733732c55222feb56"
+    },
+    {
+      "path": "START_HERE.txt",
+      "size": 865,
+      "sha256": "38dcd42419a86592cd059f1e17dd7de5a2fa4ac844638feadc41e5b7fdb231c2",
+      "sha3_256": "23493f8124f9e84cbd38d1239449c9449a95a58521016d7733732c55222feb56"
+    },
+    {
+      "path": "docs/CRYPTO_MIGRATION.md",
+      "size": 539,
+      "sha256": "2cea00ff32f5b3f2c30443207db436017da770ea19ce51a7f3067f88ef884c18",
+      "sha3_256": "59d68088a2316d49dce9d993857a163a3ff09ec0a69996747d2da0c30e893e8f"
+    },
+    {
+      "path": "docs/GOVERNANCE.md",
+      "size": 396,
+      "sha256": "a6002493a3a8331b27cd689e1a30d709bc11e87ac2a6ee9fcb021a92e096c2ac",
+      "sha3_256": "d7839b3d6800b3854f3b653de3b76ad21864faf855ff734b38538e201983cf18"
+    },
+    {
+      "path": "docs/RUNBOOK.md",
+      "size": 591,
+      "sha256": "bdede3c711afe14b450ec48852198d1f309bc6b38b5ebce5ec3291740c3d8989",
+      "sha3_256": "2f24ee23a0a1cd334e90a6b29dc66d8c7e53615327740d8d0a543c4902c4bbcc"
+    },
+    {
+      "path": "docs/SPEC.md",
+      "size": 709,
+      "sha256": "9df9e5f7d20461ac658ea050f53c6301490c036859ac7ac07957a4ee8115003a",
+      "sha3_256": "99dc047c0297a90f2aa65f04d3e7e0f9dd20e6f386f60e9d71c76d21b313f9c8"
+    },
+    {
+      "path": "scripts/build.sh",
+      "size": 640,
+      "sha256": "11705a785266c5501f25da926bd523bc592fa40fd255bada34ebce427b87685d",
+      "sha3_256": "ff20b2407dd0fd444d234f33c2c0f7a290d6d8c83c09d021a94521c2d6d3aca4"
+    },
+    {
+      "path": "scripts/maintenance.sh",
+      "size": 432,
+      "sha256": "2dc558fdce10349977174971cb37fe9715af253365de9a467ae7413b458f01ad",
+      "sha3_256": "1607fa407826dad0a3939f1e795a737c211e1f6781a7845c2656a022260c5415"
+    },
+    {
+      "path": "scripts/regenerate_manifest.py",
+      "size": 1444,
+      "sha256": "27773cc721976cf99207cba440bf010c81a1bd04508798afdfe1b25a1f234087",
+      "sha3_256": "f1b167d091906765d159a943a10d8a88dff53c10ad588ca3c2b0d51b1503b182"
+    },
+    {
+      "path": "scripts/verify.sh",
+      "size": 1185,
+      "sha256": "b004b97200d4e6e02fdcc4d0278661eef335d6af6daef9b418dfe194236de7ea",
+      "sha3_256": "74c28332e09410f55f7734f24b15d0a242f98116d2a6e22e9f63f79a1b898488"
+    },
+    {
+      "path": "src/c99/longrun.c",
+      "size": 1347,
+      "sha256": "0ef7a9b5718052930e01d237633d2c52b57ecd349378f73d3a1be138dcad4e8b",
+      "sha3_256": "33ad17641b3f792b179cb442b0157925371fabafd2e6e23f4e2e135728b9d18f"
+    },
+    {
+      "path": "src/wasm/ref_impl.wat",
+      "size": 182,
+      "sha256": "7f2f14b73870a45b7f9c307805c6f401d63cc30a40d517afb709a87ca7abd306",
+      "sha3_256": "27a43a0a7d584352e28272794755d95f6e6fe4c83077caf6956ae63b2e96e785"
+    },
+    {
+      "path": "tests/test_vectors.txt",
+      "size": 71,
+      "sha256": "726f8ce46e102ecc02d58200014641c788c3bce7baeddd83c49b9b163c370212",
+      "sha3_256": "7b3bb5b6e1689b0922fae76f5f9046258c923d95c00b5c471cbd47966e5c2d40"
+    }
+  ]
+}

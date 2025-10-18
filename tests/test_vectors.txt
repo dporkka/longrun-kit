@@ -1,0 +1,3 @@
+hello -> VECTOR echo
+42 -> VECTOR echo
+durable software -> VECTOR echo
